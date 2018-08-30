@@ -1,0 +1,6 @@
+print("To solve the area of a triangle")
+a = int(input("Length of triangle:))
+b = int(input("Breadth of triangle:"))
+print('()*()*0.5'.format(a,b))
+Area = str(a*b*0.5)
+print("Area of the triangle is'+area)
